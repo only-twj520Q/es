@@ -18,7 +18,7 @@ npm install -g es
 
 `cd`到项目根目录下，执行`es`即可。
 
-![es](/Users/tangwenjie/Desktop/es.gif)
+![es](http://tosv.byted.org/obj/ttfe/es.gif)
 
 
 
