@@ -1,5 +1,5 @@
 {
-  "name": "es",
+  "name": "@only_twj520q/es_cli",
   "version": "0.0.1",
   "description": "cli tool for lazy man",
   "bin": {
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "tangwenjie",
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0",

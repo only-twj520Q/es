@@ -9,7 +9,7 @@
 ### 安装
 
 ```g
-npm install -g es
+npm install -g @only_twj520q/es_cli
 ```
 
 
